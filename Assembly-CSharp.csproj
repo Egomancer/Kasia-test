@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{4552E06F-C3BD-B2F7-BB41-FAE76779C4E8}</ProjectGuid>
+    <ProjectGuid>{E51CC2A3-739C-3D03-9343-C338A0A1FF49}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -52,9 +52,10 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Scripts\GeneralController.cs" />
+     <Compile Include="Assets\Scripts\TimerController.cs" />
      <Compile Include="Assets\Scripts\UI_Controller.cs" />
  <Reference Include="Facebook.Unity.Settings">
- <HintPath>F:/Work/Tests/ProgrammingTest/ProgrammingTest/Library/FacebookSDK/Facebook.Unity.Settings.dll</HintPath>
+ <HintPath>F:/Work/Tests/ProgrammingTest/CubeTest/Library/FacebookSDK/Facebook.Unity.Settings.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity2017/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
